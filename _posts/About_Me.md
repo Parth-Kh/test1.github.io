@@ -12,8 +12,6 @@ redirect_from:
   <p>🎓 Graduate | 🧠 Master's Student | 🚀 Machine Learning Enthusiast</p>
 </div>
 
-<!-- ![Profile Image](your-profile-image-url.jpg) Replace with your profile image URL -->
-
 🎓 I graduated in 2021 from **The Maharaja Sayajirao University of Baroda**.
 
 📚 Currently, I am pursuing my Master's degree in **Signal Processing and Machine Learning Specialization** from the **Electrical Engineering Department** of **Indian Institute of Technology Kharagpur**.
