@@ -2,7 +2,59 @@
 layout: home
 # Index page
 ---
-<div align="center">
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .progress-container {
+            display: flex;
+            flex-direction: column;
+            width: 300px;
+        }
+
+        .progress-bar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+
+        .progress-label {
+            flex: 1;
+            padding-right: 10px;
+        }
+
+        .progress-bar-fill {
+            flex: 4;
+            height: 20px;
+            background-color: #007bff;
+        }
+    </style>
+</head>
+<body>
+    <div class="progress-container">
+        <div class="progress-bar">
+            <div class="progress-label">Speech Processing</div>
+            <div class="progress-bar-fill" style="width: 80%;"></div>
+        </div>
+        <div class="progress-bar">
+            <div class="progress-label">Predictive Modeling</div>
+            <div class="progress-bar-fill" style="width: 90%;"></div>
+        </div>
+        <div class="progress-bar">
+            <div class="progress-label">Clustering Modeling</div>
+            <div class="progress-bar-fill" style="width: 85%;"></div>
+        </div>
+        <div class="progress-bar">
+            <div class="progress-label">Data Visualization</div>
+            <div class="progress-bar-fill" style="width: 95%;"></div>
+        </div>
+    </div>
+</body>
+</html>
+
+
+<!-- <div align="center">
   <h1>Hi, I'm Parth Khadse 👋</h1>
   <p>🎓 Graduate | 🧠 Master's Student | 🚀 Machine Learning Enthusiast</p>
 </div>
@@ -18,3 +70,4 @@ layout: home
 🤝 I'm always open to collaborating on exciting projects, engaging in discussions about emerging trends, and learning from fellow enthusiasts. If you have any ideas or just want to connect, feel free to reach out to me.
 
 Let's shape the future of AI and machine learning together, one line of code at a time! 🚀
+ -->
