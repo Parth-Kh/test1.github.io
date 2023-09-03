@@ -3,6 +3,6 @@ import { initLocaleDatetime, imgLazy } from './modules/plugins';
 
 basic();
 initSidebar();
-// initTopbar();
+initTopbar();
 initLocaleDatetime();
 imgLazy();
