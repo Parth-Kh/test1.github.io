@@ -13,39 +13,42 @@ baseurl: ""
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone: Asia/Shanghai
+timezone:
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Parth Khadse # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Machine Learning Enthusiast # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  personal website, github.io
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: "https://parthkhadse.github.io"
 
 github:
-  username: github_username # change to your github username
+  username: Parthkhadse # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: ParthKhadse # change to your twitter username
+
+linkedin:
+  username: Parthkhadse # change to your github username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Parth Khadse
+  email: parth270499@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    - https://twitter.com/ParthKhadse # change to your twitter homepage
+    - https://github.com/Parthkhadse # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.facebook.com/parth.khadse
+    - https://www.linkedin.com/in/parthkhadse
 
 google_site_verification: # fill in to your verification string
 
@@ -76,7 +79,7 @@ theme_mode: # [light|dark]
 img_cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/commons/avatar.jpg"
+avatar: "https://media.licdn.com/dms/image/D4D03AQHB6eUW9Gm9sQ/profile-displayphoto-shrink_800_800/0/1693130731436?e=1698883200&v=beta&t=I-JPdov5pXX6sSJlzgzHTC8pWFyMaV2UCOZgdvhkTVw"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
